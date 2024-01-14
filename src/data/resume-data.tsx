@@ -115,7 +115,7 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "Datahub",
+      title: "Console",
       techStack: [
         //"Side Project",
         "TypeScript",
