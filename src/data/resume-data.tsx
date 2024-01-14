@@ -66,8 +66,8 @@ export const RESUME_DATA = {
       badges: ["Remote"],
       title: "Advanced App Engineering Analyst",
       logo: ParabolLogo,
-      start: "2018",
-      end: "2022",
+      start: "2022",
+      end: "now",
       description:
         "Designing the application to show the data for Improvization of business for the clients",
     },
